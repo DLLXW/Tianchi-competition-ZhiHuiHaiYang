@@ -29,3 +29,7 @@
 	2  9002   围网
 	3  9003   拖网
 	4  9004   拖网
+## 对于xgboost.lightgbm,catboost,randomforests,类别不均衡处理
+参见:"多模+类别不均衡.ipynb"
+
+

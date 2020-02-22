@@ -1,4 +1,4 @@
-#智慧海洋算法赛
+# 阿里天池智慧海洋算法赛
 ## 对于*单模testB0.874.py*
 - 所需环境：
 	 - python3
@@ -31,5 +31,3 @@
 	4  9004   拖网
 ## 对于xgboost.lightgbm,catboost,randomforests,类别不均衡处理
 参见:"多模+类别不均衡.ipynb"
-
-
